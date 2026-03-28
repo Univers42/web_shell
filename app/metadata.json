@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Terminal",
+  "description": "A web-based bash terminal with real-time shell access using xterm.js and node-pty.",
+  "requestFramePermissions": []
+  "jdjaldfj"
+}
