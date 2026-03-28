@@ -1,0 +1,3 @@
+simulate_commits.sh
+app/node_modules/
+app/dist/
