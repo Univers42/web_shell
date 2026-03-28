@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Inferno Terminal
+Comment=Hellish terminal emulator
+Exec=PLACEHOLDER_PATH/inferno-terminal
+Icon=PLACEHOLDER_PATH/electron/icon.svg
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+Keywords=terminal;console;shell;inferno;
+StartupWMClass=inferno-terminal
